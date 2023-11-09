@@ -1,6 +1,6 @@
 /*!
- * SB View - 5025211240 - SB View v7.0.7 (https://startbootstrap.com/template/sb-admin)
- * Copyright 2013-2023 SB View - 5025211240
+ * SB View - 5025211240 - M Naufal Badruttamam - SB View v7.0.7 (https://startbootstrap.com/template/sb-admin)
+ * Copyright 2013-2023 5025211240 - M Naufal Badruttamam
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-sb-admin/blob/master/LICENSE)
  */
 //
